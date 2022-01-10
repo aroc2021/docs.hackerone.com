@@ -33,3 +33,4 @@ Before publicly launching your program, your program must:
 Once you've met the criteria in Controlled Launch, the **Public launch** button will appear, and you can publicly self-launch your program whenever you're ready to. When you publicly launch your program, your vulnerability disclosure program will be published on HackerOne's Directory and will be open to other hackers to submit reports.
 
 ![public launch completed](./images/h1-response-3.png)
+AaronHarper0509@gmail.com
